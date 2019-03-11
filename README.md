@@ -1,4 +1,4 @@
-RU 
+- [RU]
 Необходимо реализовать игру 5 в ряд (Гомоку) на бесконечном поле для 2х игроков. 
 
 Игра ведется на одном устройстве. 
@@ -18,7 +18,7 @@ RU
 Написать readme по необходимому ПО и как запустить приложение. 
 Уточнение - 100x100, 1000x1000 и т. д. — не бесконечные поля.
 
-ENG
+- [ENG]
 The task is creating the game 5 in a row (Gomoku) on an infinite field for 2 players.
 
 The game is played on one device.
